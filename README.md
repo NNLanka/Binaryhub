@@ -1,0 +1,2 @@
+# Binaryhub
+BinaryBotStore
